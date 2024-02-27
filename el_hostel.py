@@ -1,5 +1,5 @@
 '''
-
+Código fuente de https://www.youtube.com/watch?v=n2uGW4nmLRE
 
 '''
 
@@ -27,9 +27,6 @@ l1 = []
 l2 = []
 l3 = []
 l4 = []
-
-for i in range(0,16):
-    print(i, i % 4)
     
 for i in range(0, len(lt)):
     t = i % 4
